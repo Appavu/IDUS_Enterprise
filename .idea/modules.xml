@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IDUS.iml" filepath="$PROJECT_DIR$/IDUS.iml" />
+      <module fileurl="file://F:\IDUS enterprise\Android project\IDUS_Enterprise\IDUS.iml" filepath="F:\IDUS enterprise\Android project\IDUS_Enterprise\IDUS.iml" />
       <module fileurl="file://$PROJECT_DIR$/IDUS_Enterprise.iml" filepath="$PROJECT_DIR$/IDUS_Enterprise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
